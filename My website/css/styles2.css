@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+/* classes */
+.divn1 {
+  width: 400px;
+  height: 400px;
+  background-color: #ffd369;
+  position:  relative;
+
+}
+.divn2 {
+  width: 33%;
+  background-color: #393e46;
+  position:  absolute;
+  transform: translateX(33%);
+
+}
